@@ -1,1 +1,9 @@
+Para cambiar la visibilidad de un repositorio ya creado de privado a público, o viceversa, se han de seguir los siguientes pasos:
 
+1) Nos vamos al repositorio en concreto que queramos modificar. 
+
+2) En la parte superior del repositorio, (justo debajo de las 3 líneas horizontales y del icono de GitHub), aparecen los apartados "Code", "Issues", "Pull requests", "Actions",...
+En esa fila nos vamos a "Settings", o "Ajustes" en caso de que lo tengas en español
+
+3) Dentro de "Settings" scrolleamos hasta "Danger Zone" y clickeamos en el apartado "Change repository visibility". Nos saldra un botón que pondra "Change to (mode)", donde (mode)
+es el opuesto de nuestra visibilidad. ES DECIR, si lo tenemos público, lo cambiaremos a privado, y si lo tenemos privado a público.
